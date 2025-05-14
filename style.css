@@ -1,0 +1,30 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  padding: 20px;
+  background: #f4f4f9;
+  color: #333;
+}
+
+button, input {
+  margin: 10px 0;
+  padding: 10px;
+}
+
+#hoverBox {
+  width: 200px;
+  height: 100px;
+  background-color: lightblue;
+  text-align: center;
+  line-height: 100px;
+  margin-top: 10px;
+}
+
+.gallery img {
+  margin: 5px;
+  cursor: pointer;
+}
+
+#mainImage {
+  display: block;
+  margin-bottom: 10px;
+}
